@@ -5001,7 +5001,7 @@
   },
   "final_output": "Synthetic demo output. Preserved node names include: Knæsmerter | KnæSmerter, Slidgigt i knæ, Meniskskade, Menisklæsion, Nedsat ledbevægelighed, Vævsskade i knæ, Patellofemoralt syndrom, Bruskskader. All explanatory text, sources, identifiers, types, and non-relevance scoring values have been replaced with fake demo content.",
   "source_url_map": {
-    "demo-url-node-0001": [
+    "100074": [
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/akut-og-foerstehjaelp/tilstande-og-sygdomme/foerstehjaelp/akutte-medicinske-tilstande/asystoli/",
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/akut-og-foerstehjaelp/tilstande-og-sygdomme/forgiftninger/benzodiazepin-forgiftning/",
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/akut-og-foerstehjaelp/tilstande-og-sygdomme/forgiftninger/benzodiazepin-lignende-forgiftning/",
@@ -5028,25 +5028,25 @@
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/psykiatri/tilstande-og-sygdomme/behandlinger/elektrokonvulsiv-terapi-ect/",
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/undersoegelser-og-proever/kliniske-procedurer/muskelskelet/nakkebrud-mistanke-om/"
     ],
-    "demo-url-node-0002": [
+    "100024": [
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/akut-og-foerstehjaelp/tilstande-og-sygdomme/foerstehjaelp/skader/ledskader-akutte/"
     ],
-    "demo-url-node-0003": [
+    "100014": [
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/arbejdsmedicin/arbejdsrelaterede-eksponeringer/fysisk-ergonomisk/knaeliggende-arbejde/",
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/fysmed-og-rehab/symptomer-og-tegn/knaesmerter/",
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/fysmed-og-rehab/tilstande-og-sygdomme/knae/patellar-tendinopati/",
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/fysmed-og-rehab/tilstande-og-sygdomme/knae/patellofemoralt-syndrom/"
     ],
-    "demo-url-node-0004": [
+    "100038": [
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/arbejdsmedicin/arbejdsrelaterede-eksponeringer/fysisk-ergonomisk/knaeliggende-arbejde/",
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/fysmed-og-rehab/tilstande-og-sygdomme/knae/patellofemoralt-syndrom/",
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/ortopaedi/tilstande-og-sygdomme/knae/patellaluksation/",
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/ortopaedi/tilstande-og-sygdomme/knae/patellofemoral-artrose/"
     ],
-    "demo-url-node-0005": [
+    "100012": [
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/arbejdsmedicin/arbejdsrelaterede-eksponeringer/fysisk-ergonomisk/knaeliggende-arbejde/"
     ],
-    "demo-url-node-0006": [
+    "100086": [
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/arbejdsmedicin/arbejdsrelaterede-eksponeringer/fysisk-ergonomisk/tunge-loeft-paa-arbejdet/",
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/fysmed-og-rehab/tilstande-og-sygdomme/behandlinger/kiropraktik/",
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/fysmed-og-rehab/tilstande-og-sygdomme/hofte-og-laar/iliopsoastendinopati-og-bursit/",
@@ -5056,7 +5056,7 @@
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/ortopaedi/tilstande-og-sygdomme/baekken-hofte-og-laar/artrose-hofte/",
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/ortopaedi/tilstande-og-sygdomme/baekken-hofte-og-laar/hofteimpingement/"
     ],
-    "demo-url-node-0007": [
+    "100006": [
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/arbejdsmedicin/arbejdsrelaterede-eksponeringer/fysisk-ergonomisk/tunge-loeft-paa-arbejdet/",
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/fysmed-og-rehab/symptomer-og-tegn/knaesmerter/",
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/fysmed-og-rehab/symptomer-og-tegn/ledsmerter-stivhed-eller-haevelse-i-et-led/",
@@ -5069,24 +5069,24 @@
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/undersoegelser-og-proever/undersoegelser/mr/mr-af-knaeled/",
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/undersoegelser-og-proever/undersoegelser/oevrige-undersoegelser/knaeledspunktur/"
     ],
-    "demo-url-node-0008": [
+    "100096": [
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/blod/tilstande-og-sygdomme/lymfomer/non-hodgkins-lymfom/"
     ],
-    "demo-url-node-0009": [
+    "100100": [
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/endokrinologi/tilstande-og-sygdomme/binyresygdomme/faeokromocytom-og-paragangliom/"
     ],
-    "demo-url-node-0010": [
+    "100010": [
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/endokrinologi/tilstande-og-sygdomme/diabetes-mellitus/diabetisk-fodsaar/",
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/sjaeldne-sygdomme/sjaeldne-sygdomme/hereditaere-multiple-eksostoser/",
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/sjaeldne-sygdomme/sjaeldne-sygdomme/mukolipidoser/",
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/sjaeldne-sygdomme/sjaeldne-sygdomme/mukopolysakkaridoser/"
     ],
-    "demo-url-node-0011": [
+    "100080": [
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/fysmed-og-rehab/symptomer-og-tegn/hael-og-fodsmerter/",
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/fysmed-og-rehab/tilstande-og-sygdomme/laeg-ankel-og-fod/tarsal-tunnel-syndrom/",
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/ortopaedi/symptomer-og-tegn/ankelsmerter/"
     ],
-    "demo-url-node-0012": [
+    "100088": [
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/fysmed-og-rehab/symptomer-og-tegn/hael-og-fodsmerter/",
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/fysmed-og-rehab/tilstande-og-sygdomme/laeg-ankel-og-fod/bursit-calcaneus/",
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/fysmed-og-rehab/undersoegelser/knaeundersoegelse/",
@@ -5100,30 +5100,30 @@
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/undersoegelser-og-proever/klinisk-biokemi/blodproever/neutrofile-leukocytter/",
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/undersoegelser-og-proever/klinisk-biokemi/blodproever/reumafaktor-igm-rf/"
     ],
-    "demo-url-node-0013": [
+    "100002": [
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/fysmed-og-rehab/symptomer-og-tegn/knaesmerter/",
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/fysmed-og-rehab/tilstande-og-sygdomme/behandlinger/kiropraktorbehandling-socialmedicin/",
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/sjaeldne-sygdomme/sjaeldne-sygdomme/negl-patella-syndrom/"
     ],
-    "demo-url-node-0014": [
+    "100052": [
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/fysmed-og-rehab/symptomer-og-tegn/knaesmerter/"
     ],
-    "demo-url-node-0015": [
+    "100042": [
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/fysmed-og-rehab/symptomer-og-tegn/ledsmerter-stivhed-eller-haevelse-i-et-led/",
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/fysmed-og-rehab/tilstande-og-sygdomme/albue-og-underarm/epikondylit/",
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/ortopaedi/tilstande-og-sygdomme/oevrige-sygdomme/osteochondritis-dissecans/"
     ],
-    "demo-url-node-0016": [
+    "100040": [
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/fysmed-og-rehab/symptomer-og-tegn/ledsmerter-stivhed-eller-haevelse-i-et-led/",
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/ortopaedi/tilstande-og-sygdomme/knae/kollateralligamentskade-medial/",
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/ortopaedi/tilstande-og-sygdomme/knae/lateral-kollateral-ligamentskade/",
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/ortopaedi/undersoegelser/test-for-korsbaandskade-i-knaeet/"
     ],
-    "demo-url-node-0017": [
+    "100018": [
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/fysmed-og-rehab/symptomer-og-tegn/udholdenhedsidraet-hyppige-problemer/",
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/paediatri/symptomer-og-tegn/kroniske-muskelskeletsmerter-hos-boern/"
     ],
-    "demo-url-node-0018": [
+    "100076": [
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/fysmed-og-rehab/tilstande-og-sygdomme/albue-og-underarm/epikondylit/",
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/oere-naese-hals/symptomer-og-tegn/tand-og-kaebeskader/",
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/oere-naese-hals/tilstande-og-sygdomme/odontologi/tandskader/",
@@ -5133,114 +5133,114 @@
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/ortopaedi/tilstande-og-sygdomme/skulder-og-overarm/acromioclaviculaerleddet-artrose/",
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/sjaeldne-sygdomme/sjaeldne-sygdomme/kabuki-syndrom/"
     ],
-    "demo-url-node-0019": [
+    "100022": [
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/fysmed-og-rehab/tilstande-og-sygdomme/behandlinger/kiropraktorbehandling-socialmedicin/"
     ],
-    "demo-url-node-0020": [
+    "100008": [
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/fysmed-og-rehab/tilstande-og-sygdomme/knae/bakers-cyste/",
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/fysmed-og-rehab/tilstande-og-sygdomme/knae/patellofemoralt-syndrom/",
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/ortopaedi/tilstande-og-sygdomme/behandlinger/ledbruskkirurgi/"
     ],
-    "demo-url-node-0021": [
+    "100028": [
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/fysmed-og-rehab/tilstande-og-sygdomme/knae/loeberknae-runner-s-knee/",
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/fysmed-og-rehab/tilstande-og-sygdomme/knae/popliteustendinopati/"
     ],
-    "demo-url-node-0022": [
+    "100058": [
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/fysmed-og-rehab/tilstande-og-sygdomme/knae/osgood-schlatters-sygdom/"
     ],
-    "demo-url-node-0023": [
+    "100044": [
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/fysmed-og-rehab/tilstande-og-sygdomme/knae/patellofemoralt-syndrom/",
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/fysmed-og-rehab/undersoegelser/knaeundersoegelse/",
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/ortopaedi/tilstande-og-sygdomme/knae/bursit-praepatellar/"
     ],
-    "demo-url-node-0024": [
+    "100072": [
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/fysmed-og-rehab/tilstande-og-sygdomme/laeg-ankel-og-fod/muskelruptur-i-laeggen/"
     ],
-    "demo-url-node-0025": [
+    "100020": [
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/fysmed-og-rehab/tilstande-og-sygdomme/laeg-ankel-og-fod/plantar-fasciitis/",
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/fysmed-og-rehab/tilstande-og-sygdomme/ryg-nakke-og-bryst/piskesmaeldslaesion-whiplash-injury/"
     ],
-    "demo-url-node-0026": [
+    "100030": [
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/fysmed-og-rehab/tilstande-og-sygdomme/oevrige-sygdomme/postpolio-syndrom/"
     ],
-    "demo-url-node-0027": [
+    "100062": [
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/fysmed-og-rehab/tilstande-og-sygdomme/rehabilitering/multitraume-muskuloskeletalt/"
     ],
-    "demo-url-node-0028": [
+    "100048": [
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/fysmed-og-rehab/undersoegelser/knaeundersoegelse/",
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/ortopaedi/tilstande-og-sygdomme/haandled-og-haand/ligamentskade-paa-fingrene/"
     ],
-    "demo-url-node-0029": [
+    "100092": [
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/geriatri/symptomer-og-tegn/svimmelhed-hos-aeldre/",
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/hjerte-kar/tilstande-og-sygdomme/oevrige-sygdomme/refleksmedieret-synkope/"
     ],
-    "demo-url-node-0030": [
+    "100026": [
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/kirurgi/tilstande-og-sygdomme/plastikkirurgi/lipoedem/"
     ],
-    "demo-url-node-0031": [
+    "100102": [
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/mandlige-koensorganer/tilstande-og-sygdomme/seksuelle-dysfunktioner/ejakulations-og-orgasmeproblemer/"
     ],
-    "demo-url-node-0032": [
+    "100070": [
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/neurologi/tilstande-og-sygdomme/nervelaesioner/nervus-femoralis-laesion/"
     ],
-    "demo-url-node-0033": [
+    "100084": [
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/neurologi/tilstande-og-sygdomme/nervelaesioner/nervus-ischiadicus-laesion/"
     ],
-    "demo-url-node-0034": [
+    "100066": [
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/oeje/tilstande-og-sygdomme/oejentraumer/orbitafraktur/"
     ],
-    "demo-url-node-0035": [
+    "100032": [
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/oeje/tilstande-og-sygdomme/synsnerven/opticusneuritis/"
     ],
-    "demo-url-node-0036": [
+    "100056": [
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/ortopaedi/tilstande-og-sygdomme/baekken-hofte-og-laar/quadricepsskader/"
     ],
-    "demo-url-node-0037": [
+    "100034": [
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/ortopaedi/tilstande-og-sygdomme/knae/korsbaandskade-bagerste/"
     ],
-    "demo-url-node-0038": [
+    "100060": [
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/ortopaedi/tilstande-og-sygdomme/knae/meniskskade-i-knaeet/"
     ],
-    "demo-url-node-0039": [
+    "100036": [
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/ortopaedi/tilstande-og-sygdomme/knae/meniskskade-i-knaeet/",
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/undersoegelser-og-proever/undersoegelser/mr/mr-af-knaeled/"
     ],
-    "demo-url-node-0040": [
+    "100064": [
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/ortopaedi/tilstande-og-sygdomme/knoglebrud/femurfraktur-distalt/"
     ],
-    "demo-url-node-0041": [
+    "100054": [
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/ortopaedi/tilstande-og-sygdomme/knoglebrud/knae-frakturer/"
     ],
-    "demo-url-node-0042": [
+    "100068": [
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/ortopaedi/undersoegelser/rygundersoegelse/"
     ],
-    "demo-url-node-0043": [
+    "100046": [
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/ortopaedi/undersoegelser/test-for-sideinstabilitet-i-knaeet/"
     ],
-    "demo-url-node-0044": [
+    "100082": [
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/paediatri/tilstande-og-sygdomme/ortopaedi/out-toeing/",
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/paediatri/tilstande-og-sygdomme/ortopaedi/tibiatorsion/"
     ],
-    "demo-url-node-0045": [
+    "100090": [
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/paediatri/tilstande-og-sygdomme/ortopaedi/tibiatorsion/"
     ],
-    "demo-url-node-0046": [
+    "100094": [
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/rejsemedicin-vacciner/vacciner/de-enkelte-vacciner/hpv-vaccine/"
     ],
-    "demo-url-node-0047": [
+    "100078": [
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/sjaeldne-sygdomme/sjaeldne-sygdomme/melnick-needles-syndrom/",
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/sjaeldne-sygdomme/sjaeldne-sygdomme/multipel-epifysedysplasi/"
     ],
-    "demo-url-node-0048": [
+    "100004": [
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/sjaeldne-sygdomme/sjaeldne-sygdomme/negl-patella-syndrom/"
     ],
-    "demo-url-node-0049": [
+    "100050": [
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/socialmedicin/beskaeftigelsesindsats-og-forsoergelsesydelser/nedsat-funktionsevne-og-arbejdsmarkedet/"
     ],
-    "demo-url-node-0050": [
+    "100098": [
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/undersoegelser-og-proever/oevrige-proever/immunologi/antiglobulin-test-tidligere-benaevnt-coombs-test/"
     ],
-    "demo-url-node-0051": [
+    "100016": [
       "https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/undersoegelser-og-proever/undersoegelser/mr/mr-af-knaeled/"
     ]
   }
